@@ -41,3 +41,11 @@ powershell -ExecutionPolicy Bypass -File build.ps1
 
 Używa kompilatora `csc.exe` z Windows (.NET Framework 4) – nie potrzeba Visual Studio ani .NET SDK. Wynik: `dist\SlideSync.exe`.
 Kod źródłowy: `src\`.
+
+## Licencja
+
+[MIT](LICENSE) – wolno używać, kopiować, modyfikować i rozpowszechniać bez ograniczeń (także komercyjnie).
+
+## Pobieranie
+
+Gotowy `SlideSync.exe` jest w [Releases](https://github.com/Przemmoo/SlideSync/releases/latest).
